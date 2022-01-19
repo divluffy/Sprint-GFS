@@ -6,8 +6,8 @@
    #### As a customer, I can : 
 
 - Browsing for meals.
-- Browse offers and discounts on meals.
-- Browse categories and sections of food.
+- Browsing offers and discounts on meals.
+- Browsing categories and sections of food.
 - Search meals.
 - See general information about the meal on the meal page.
 - Several pictures of food.
