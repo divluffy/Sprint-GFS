@@ -3,7 +3,7 @@
 ## **User Stories**  :books: 
 
 ### **User  who want to buy meals** : 
-   #### As a client, I can : 
+   #### As a customer, I can : 
 
 - Browsing for meals.
 - Browse offers and discounts on meals.
@@ -70,7 +70,7 @@
 
 When the user opens the application, he can see a lot of offers and meals on the main page, and easily navigate between the various categories, and also has the ability to search for the name of a meal or a specific category.
 
-After the user chooses the meal, he will be converted to the meal page that contains details and information about it. Then he can see many pictures of the meal and its ingredients, and then he can determine the quantity to be ordered. It also has the ability to customize the meal by deleting ingredients or adding ingredients with automatically adjusting the price. Then he selects an address to send the request to, which will have options such as sending to the address that was previously specified (from the automatic location selection or a previously saved location) or adding a new address. Then, selecting the payment option either electronically or upon receipt, your request will be executed and the estimated time for the request to arrive at the specified place will be sent. When the request arrives, a notification will be sent to the place. Then the user receives a questionnaire to check the quality of service.
+After the user chooses the meal, he will be transferred to the meal page that contains details and information about it. Then he can see many pictures of the meal and its ingredients, and then he can determine the quantity to be ordered. It also has the ability to customize the meal by deleting ingredients or adding ingredients with automatically adjusting the price. Then he selects an address to send the request to, which will have options such as sending to the address that was previously specified (from the automatic location selection or a previously saved location) or adding a new address. Then, selecting the payment option either electronically or upon receipt, your request will be executed and the estimated time for the request to arrive at the specified place will be sent. When the request arrives, a notification will be sent to the place. Then the user receives a questionnaire to check the quality of service.
  
 In the event that the user has an account on our site, this will enable him to deal with orders in an easy and simple way, so that he can obtain discount coupons after a certain number of orders, save payment information safely for later use, specify previously saved addresses, and also can save the meal or order to His favourites, it will also enable him to view his purchase history and all orders.
 
