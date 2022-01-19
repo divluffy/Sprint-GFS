@@ -24,7 +24,6 @@
 - Possibility to delete a user's site from the list.
 - Request to confirm delivery on the specified site.
 - Determine an estimated time for the arrival of the meal to the user.
-- Tracking the progress of the delivery journey and estimating the remaining time for the arrival of the flight.
 
 - Determine the type of payment currency.
 - Determine the method of payment online or upon receipt (delivery must be to the current location of the user).
