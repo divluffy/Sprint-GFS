@@ -13,7 +13,7 @@
 - Possibility to use a discount coupon.
 - Knowing the price of meals and determining the type of currency.
 - The possibility of specifying conditions for the meal in terms of adding or deleting components.
-- Add the request to the basket.
+- Add meal to cart .
 
 - Find the current user's location automatically.
 - Ability to store multiple locations for users.
