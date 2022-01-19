@@ -5,7 +5,7 @@
 ### **User  who want to buy meals** : 
    #### As a client, I can : 
 
-- User browsing for meals.
+- Browsing for meals.
 - Browse offers and discounts on meals.
 - Browse categories and sections of food.
 - Search meals.
