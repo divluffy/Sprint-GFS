@@ -24,7 +24,7 @@
 
 - Determine the type of payment currency.
 - Determine the method of payment online or upon receipt (delivery must be to the current location of the user).
-- Notification that the meal has arrived at the place of delivery.
+- Receive Notificationس that the meal has arrived at the place of delivery.
 
 ##### When user creating an account:
 - Add and delete favorite meals to his list.
