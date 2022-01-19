@@ -5,11 +5,11 @@
 ### **User  who want to buy meals** : 
    #### As a customer, I can : 
 
-- Browsing for meals.
-- Browsing offers and discounts on meals.
-- Browsing categories and sections of food.
+- browse for meals.
+- browse offers and discounts on meals.
+- browse categories and sections of food.
 - Search meals.
-- See general information about the meal on the meal page, Several pictures of food, Meal ingredients, and the amount of meals required
+- See general information about the meal on the meal page, Several pictures of food, Meal ingredients and the amount of meals required
 - Possibility to use a discount coupon.
 - Knowing the price of meals and determining the type of currency.
 - The possibility of specifying conditions for the meal in terms of adding or deleting components.
