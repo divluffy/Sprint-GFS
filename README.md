@@ -2,10 +2,9 @@
 
 ## **User Stories**  :books: 
 
-### **User who wants to view doctors and book appointments** : 
+### **User  who want to buy meals** : 
    #### As a client, I can : 
 
-- As a client, I can search for specific doctor.
 - Browse the user for meals.
 - Browse offers and discounts on meals.
 - See food categories and sections.
